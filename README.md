@@ -7,4 +7,4 @@ Hoy si parece que se están actualizando los cambios.
 
 Probando si funciona.
 
-Trabajando por AQUI.
+NO ESTA FUNCIONANDO BIEN.
