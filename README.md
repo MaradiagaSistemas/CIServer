@@ -3,9 +3,4 @@ CIServer
 
 Repositorio del Servidor de Integración Continua.
 
-Hola Esto es un Cambio.
-
-www.juanorlando.com.hn
-
-Lo Cambios no se Actualizan Automaticamente :(
-No se que Pasa.
+Hoy si parece que se están actualizando los cambios.
